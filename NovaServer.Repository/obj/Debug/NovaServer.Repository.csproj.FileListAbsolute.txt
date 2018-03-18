@@ -1,0 +1,10 @@
+E:\projects\repos\ite4\NovaServer\NovaServer.Repository\bin\Debug\NovaServer.Repository.dll
+E:\projects\repos\ite4\NovaServer\NovaServer.Repository\bin\Debug\NovaServer.Repository.pdb
+E:\projects\repos\ite4\NovaServer\NovaServer.Repository\bin\Debug\Dapper.Contrib.dll
+E:\projects\repos\ite4\NovaServer\NovaServer.Repository\bin\Debug\Dapper.dll
+E:\projects\repos\ite4\NovaServer\NovaServer.Repository\bin\Debug\Dapper.xml
+E:\projects\repos\ite4\NovaServer\NovaServer.Repository\bin\Debug\Dapper.Contrib.xml
+E:\projects\repos\ite4\NovaServer\NovaServer.Repository\obj\Debug\NovaServer.Repository.csprojResolveAssemblyReference.cache
+E:\projects\repos\ite4\NovaServer\NovaServer.Repository\obj\Debug\NovaServer.Repository.csproj.CoreCompileInputs.cache
+E:\projects\repos\ite4\NovaServer\NovaServer.Repository\obj\Debug\NovaServer.Repository.dll
+E:\projects\repos\ite4\NovaServer\NovaServer.Repository\obj\Debug\NovaServer.Repository.pdb

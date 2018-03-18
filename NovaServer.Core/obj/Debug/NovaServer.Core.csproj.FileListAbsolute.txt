@@ -1,0 +1,6 @@
+E:\projects\repos\ite4\NovaServer\NovaServer.Core\bin\Debug\NovaServer.Core.dll
+E:\projects\repos\ite4\NovaServer\NovaServer.Core\bin\Debug\NovaServer.Core.pdb
+E:\projects\repos\ite4\NovaServer\NovaServer.Core\obj\Debug\NovaServer.Core.csprojResolveAssemblyReference.cache
+E:\projects\repos\ite4\NovaServer\NovaServer.Core\obj\Debug\NovaServer.Core.csproj.CoreCompileInputs.cache
+E:\projects\repos\ite4\NovaServer\NovaServer.Core\obj\Debug\NovaServer.Core.dll
+E:\projects\repos\ite4\NovaServer\NovaServer.Core\obj\Debug\NovaServer.Core.pdb

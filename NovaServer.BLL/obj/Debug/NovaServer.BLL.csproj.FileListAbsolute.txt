@@ -1,0 +1,16 @@
+E:\projects\repos\ite4\NovaServer\NovaServer.BLL\bin\Debug\NovaServer.BLL.dll
+E:\projects\repos\ite4\NovaServer\NovaServer.BLL\bin\Debug\NovaServer.BLL.pdb
+E:\projects\repos\ite4\NovaServer\NovaServer.BLL\bin\Debug\AutoMapper.dll
+E:\projects\repos\ite4\NovaServer\NovaServer.BLL\bin\Debug\AutoMapper.xml
+E:\projects\repos\ite4\NovaServer\NovaServer.BLL\obj\Debug\NovaServer.BLL.csprojResolveAssemblyReference.cache
+E:\projects\repos\ite4\NovaServer\NovaServer.BLL\obj\Debug\NovaServer.BLL.csproj.CoreCompileInputs.cache
+E:\projects\repos\ite4\NovaServer\NovaServer.BLL\obj\Debug\NovaServer.BLL.dll
+E:\projects\repos\ite4\NovaServer\NovaServer.BLL\obj\Debug\NovaServer.BLL.pdb
+E:\projects\repos\ite4\NovaServer\NovaServer.BLL\bin\Debug\NovaServer.Core.dll
+E:\projects\repos\ite4\NovaServer\NovaServer.BLL\bin\Debug\NovaServer.Core.pdb
+E:\projects\repos\ite4\NovaServer\NovaServer.BLL\bin\Debug\NovaServer.Repository.dll
+E:\projects\repos\ite4\NovaServer\NovaServer.BLL\bin\Debug\Dapper.dll
+E:\projects\repos\ite4\NovaServer\NovaServer.BLL\bin\Debug\Dapper.Contrib.dll
+E:\projects\repos\ite4\NovaServer\NovaServer.BLL\bin\Debug\NovaServer.Repository.pdb
+E:\projects\repos\ite4\NovaServer\NovaServer.BLL\bin\Debug\Dapper.xml
+E:\projects\repos\ite4\NovaServer\NovaServer.BLL\bin\Debug\Dapper.Contrib.xml
